@@ -34,6 +34,7 @@ L'objectif du projet est de créer un site web interactif pour **NOVOTEL Reims T
 **À faire :**
 
 - Ajouter une redirection vers la page d'avis Google **après la soumission du formulaire interne**, tout en incitant les utilisateurs à laisser un avis officiel.
+- CSS Novotel like
 
 ### 3.2 **Jeu de la roue de la chance**
 
@@ -47,20 +48,21 @@ L'objectif du projet est de créer un site web interactif pour **NOVOTEL Reims T
 
 **À faire :**
 
-- Empêcher le relancement de la roue tant que la popup de résultat est affichée.
-- Ajouter une croix pour fermer la popup au lieu du bouton "Fermer".
+- Modification des lots disponible
+- Ajout d'image des lots dans la roue
+- Modification du png téléchargeable
 
-### 3.3 **Gestion des avis Google (Option 3 et 4 combinées)**
+### 3.3 **Gestion des avis Google**
 
 **Statut : À faire**
 
-- **Option 3 : Preuve d'avis Google avec screenshot**
+- **Option 1 : Preuve d'avis Google avec screenshot**
 
   - Après avoir laissé un avis sur le site interne, rediriger l'utilisateur vers la page d'avis Google.
   - Demander à l'utilisateur de **prendre un screenshot** de l'avis Google laissé.
   - Permettre à l'utilisateur de **soumettre le screenshot** sur le site pour obtenir une récompense supplémentaire.
 
-- **Option 4 : Système hybride**
+- **Option 2 : Système hybride**
   - L'utilisateur laisse un avis interne pour accéder au jeu de la roue.
   - Ensuite, l'utilisateur est redirigé vers Google pour laisser un avis officiel (facultatif).
   - Offrir une récompense supplémentaire pour les utilisateurs qui fournissent une preuve de l'avis laissé sur Google.
@@ -98,6 +100,7 @@ L'objectif du projet est de créer un site web interactif pour **NOVOTEL Reims T
 
 - Assurer la compatibilité avec les navigateurs mobiles.
 - Vérifier que le système de redirection et de téléchargement de screenshots fonctionne correctement sur tous les appareils.
+- Certificat SSL pour HTTPS
 
 ---
 
@@ -116,8 +119,8 @@ L'objectif du projet est de créer un site web interactif pour **NOVOTEL Reims T
 
 | Étape                        | Statut  | Date prévue d'achèvement |
 | ---------------------------- | ------- | ------------------------ |
-| Implémentation du formulaire | Terminé | -                        |
-| Jeu de la roue               | Terminé | -                        |
+| Implémentation du formulaire | Terminé | +1 semaine               |
+| Jeu de la roue               | Terminé | +2 semaine               |
 | Intégration des avis Google  | À faire | +1 semaine               |
 | Validation des screenshots   | À faire | +2 semaines              |
 | Déploiement et tests finaux  | À faire | +3 semaines              |
