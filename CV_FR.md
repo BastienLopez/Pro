@@ -1,4 +1,4 @@
-# Compétences Techniques
+# CV - Compétences Techniques
 
 ## **Stack Technique**
 
