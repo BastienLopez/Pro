@@ -1,33 +1,73 @@
-# CV - Compétences Techniques
+<h1 align="center" style="">CV</h1>
+
+---
+
+## **Formation**
+
+- **Master MAALSI** (Manager en architecture et applications logicielles des systèmes d’information) - 2023-2025.
+- **Bachelor Responsable en ingénierie des logiciels**, CESI Reims - 2022-2023.
+- **BTS SNIR** (Systèmes Numériques Informatique et Réseaux) - 2020-2022.
+- **Baccalauréat technologique STI2D**, Lycée Roosevelt, Reims - 2018-2020.
+
+---
+
+## **Expérience Professionnelle**
+
+### **Alternance - Web3 Digital Wallet** (Janvier 2023 - Septembre 2025)
+
+- Développement de pages pour la gestion de crypto-monnaies et NFTs sur l'application **Altme**.
+- Tests mobiles sur **iOS/Android** pour les applications **Altme** et **Talao**.
+- Mise en production d’un serveur d’identification sur la **blockchain Polygon** pour Altme.
+- Gestion des retours utilisateurs pour améliorer les fonctionnalités.
+
+### **Stage - Informapik** (Avril 2021 - Juin 2021)
+
+- Création d'une interface web en PHP.
+- Installation et configuration de la fibre.
+- Montage de PC et pose de baies de brassage.
+
+---
+
+# Compétences Techniques
 
 ## **Stack Technique**
 
 ### **Front-End** :
 
 - **Langages** : HTML, CSS, JavaScript.
-- **Frameworks et Outils** : Gitbook, CMS Webflow, Figma, Photoshop.
+- **Frameworks et Outils** : CMS Webflow, TypeScript, React, GitBook, Figma, Photoshop.
 
 ### **Back-End** :
 
-- **Langages** : PHP, Python, SQL/MySQL/MongoDB.
+- **Langages** : PHP, Python, Node.js, SQL/MySQL/MongoDB.
 - **Frameworks et Librairies** : Flask, Web3.js (Blockchain).
 
 ### **Outils et Environnements** :
 
+- **DevOps** :
+  - Création d'images Docker personnalisées.
+  - Orchestration de conteneurs avec Docker Compose.
+  - CI/CD avec GitHub Actions.
 - Plateformes : GitHub, GitLab, VM Linux/Ubuntu.
-- Design et prototypage : Figma, Photoshop.
-- Conteneurisation : Docker.
+- Design et Prototypage : Figma, Photoshop, Shotcut.
+- Serveur : Création et mise en production d’un serveur d'identification sur **Polygon Blockchain**.
 
-#### **DevOps avancé**
+---
 
-- Création d'images Docker personnalisées.
-- Orchestration de conteneurs avec Docker Compose.
-- Intégration CI/CD via Docker.
+## **Compétences Diverses**
 
-#### **Gestion de projet et collaboration**
+- **Connaissance matérielle** :
+  - Montage de PC avec configuration BIOS et OS spécifiques.
+  - Installation et configuration de la fibre.
+  - Pose de baies de brassage.
+- **Tests mobiles iOS/Android** :
+  - Validation et optimisation pour les applications Altme et Talao.
+- **Création graphique et bureautique** :
+  - Utilisation de logiciels comme Photoshop, Figma, et Office.
+- **Relation client** :
+  - Gestion des feedbacks utilisateurs pour l'amélioration continue.
 
-- Expérience avec la gestion de tickets (GitHub, GitLab).
-- Suivi des milestones et collaboration avec des équipes distantes.
+---
 
 ## **Développement Logiciel**
 
@@ -44,6 +84,8 @@
 - **Clean Code** :
   - Rédaction de code structuré, lisible et maintenable, selon les meilleures pratiques.
 
+---
+
 ## **Intégration et Déploiement Continu**
 
 - **CI/CD** :
@@ -55,10 +97,14 @@
   - Configuration de workflows pour l'exécution automatisée des tests et des vérifications de qualité du code.
   - Intégration des workflows dans des projets multi-branches.
 
+---
+
 ## **Cloud Computing**
 
 - Développement et déploiement d’applications dans des environnements cloud.
 - Concepts de base sur les services cloud et leurs applications pour l’hébergement et la scalabilité.
+
+---
 
 ## **Architecture Logicielle**
 
@@ -70,53 +116,13 @@
 - **Monolithique** :
   - Développement d’applications monolithiques pour des projets nécessitant une base de code centralisée.
 
-## **Travail Actuel : Contributions Clés**
-
-### **Wallet Provider**
-
-- Conception et développement de **Wallet Provider**, un système backend permettant aux entreprises et organisations de créer leurs propres émetteurs de documents pour des portefeuilles professionnels.
-- Gestion de la génération, signature et vérification de **credentials** sécurisés.
-- Participation active à la mise en œuvre et au maintien des pipelines CI/CD pour ce projet.
-
-### **Pages NFT/Coins de l'application Altme**
-
-- Développement des fonctionnalités liées aux NFT et aux crypto-monnaies, intégrées à l’application Altme.
-- Utilisation de l’**API Coingecko** pour récupérer et afficher des données dynamiques sur les crypto-monnaies et NFT.
-- Optimisation de l’expérience utilisateur pour ces pages sur mobile (iOS/Android).
-
-### **Tests iOS/Android**
-
-- Validation des nouvelles fonctionnalités et détection des anomalies via des tests approfondis sur des applications mobiles.
-- Collecte et gestion des retours utilisateurs pour garantir une expérience fluide et optimisée.
-
-### **Documentation avec Docusaurus**
-
-- Rédaction et mise à jour de documentations techniques pour les projets Wallet Provider et autres solutions liées.
-- Migration d’une ancienne documentation réalisée avec **GitBook** vers une version moderne et performante avec **Docusaurus**.
-
-## **Compétences Diverses**
-
-- **Connaissance matérielle** :
-  - Familiarité avec les configurations matérielles et leur gestion.
-- **Maîtrise du langage Web / Web3** :
-
-  - Développement d’applications et pages Web3 optimisées pour mobile.
-
-- **Gestion de la relation client** :
-
-  - Collecte et analyse des retours utilisateurs pour l’amélioration des produits.
-
-- **Création graphique et bureautique** :
-  - Maîtrise des outils comme **Photoshop**, **Figma**, et des logiciels Office (Word, Excel, PowerPoint).
-
 ---
 
-### **Exemples de Réalisations**
+## **Exemples de Réalisations**
 
 1. Développement de [Wallet Provider](https://github.com/TalaoDAO/wallet-provider) avec gestion sécurisée de credentials pour des portefeuilles professionnels.
 2. Implémentation de fonctionnalités [Discover](https://github.com/TalaoDAO/DiscoverV2) NFT et crypto-monnaies dans l’application Altme.
 3. Création de [Documentations techniques](https://github.com/TalaoDAO/talao-documentation) modernes avec **Docusaurus**.
 4. Test et optimisation des fonctionnalités mobiles sur iOS et Android.
-5. Mise en œuvre d’un projet complet en monolithique incluant CI/CD et tests en TDD.
-6. Développement d’un site e-commerce sportif [Breizhsport](https://github.com/BastienLopez/CESI_Superviser_dev_app) en microservices, hébergé dans le cloud.
-7. [Site web](https://github.com/BastienLopez/NOVOTEL_Roue_de_la_chance) interactif pour Novotel où les utilisateurs peuvent donner leur avis puis tenter leur chance avec une roue pour gagner des récompenses.
+5. Développement d’un site e-commerce sportif [Breizhsport](https://github.com/BastienLopez/CESI_Superviser_dev_app) en microservices, hébergé dans le cloud.
+6. [NOVOTEL - Roue de la Chance](https://github.com/BastienLopez/NOVOTEL_Roue_de_la_chance) : Site interactif pour collecter des avis utilisateurs avec une roue interactive.

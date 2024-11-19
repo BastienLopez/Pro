@@ -1,64 +1,110 @@
-# CV - Technical Skills
+<h1 align="center" style="">Resume</h1>
+
+---
+
+## **Education**
+
+- **Master MAALSI** (Manager in Architecture and Software Applications of Information Systems) - 2023-2025.
+- **Bachelor in Software Engineering**, CESI Reims - 2022-2023.
+- **BTS SNIR** (Digital Systems, IT, and Networks) - 2020-2022.
+- **Technological Baccalaureate STI2D**, Lycée Roosevelt, Reims - 2018-2020.
+
+---
+
+## **Professional Experience**
+
+### **Apprenticeship - Web3 Digital Wallet** (January 2023 - September 2025)
+
+- Development of pages for managing cryptocurrencies and NFTs on the **Altme** mobile application.
+- Mobile testing on **iOS/Android** for **Altme** and **Talao** applications.
+- Deployment of an identification server on the **Polygon blockchain** for Altme.
+- Management of user feedback to enhance features.
+
+### **Internship - Informapik** (April 2021 - June 2021)
+
+- Created a web interface using PHP.
+- Installed and configured fiber connections.
+- Assembled PCs and set up network patch bays.
+
+---
+
+# Technical Skills
 
 ## **Technical Stack**
 
 ### **Front-End**:
 
 - **Languages**: HTML, CSS, JavaScript.
-- **Frameworks and Tools**: Gitbook, CMS Webflow, Figma, Photoshop.
+- **Frameworks and Tools**: CMS Webflow, TypeScript, React, GitBook, Figma, Photoshop.
 
 ### **Back-End**:
 
-- **Languages**: PHP, Python, SQL/MySQL/MongoDB.
+- **Languages**: PHP, Python, Node.js, SQL/MySQL/MongoDB.
 - **Frameworks and Libraries**: Flask, Web3.js (Blockchain).
 
 ### **Tools and Environments**:
 
+- **DevOps**:
+  - Creation of custom Docker images.
+  - Container orchestration with Docker Compose.
+  - CI/CD with GitHub Actions.
 - Platforms: GitHub, GitLab, VM Linux/Ubuntu.
-- Design and Prototyping: Figma, Photoshop.
-- Containerization: Docker.
+- Design and Prototyping: Figma, Photoshop, Shotcut.
+- Server: Creation and deployment of an identification server on the **Polygon blockchain**.
 
-#### **Advanced DevOps**
+---
 
-- Creation of custom Docker images.
-- Container orchestration with Docker Compose.
-- CI/CD integration using Docker.
+## **Other Skills**
 
-#### **Project Management and Collaboration**
+- **Hardware Knowledge**:
+  - PC assembly with BIOS and specific OS configurations.
+  - Fiber installation and configuration.
+  - Setting up network patch bays.
+- **iOS/Android Mobile Testing**:
+  - Validation and optimization for Altme and Talao applications.
+- **Graphic Design and Office Tools**:
+  - Proficiency in tools such as Photoshop, Figma, and Office Suite.
+- **Client Relations**:
+  - Managing user feedback for continuous improvement.
 
-- Experience with ticket management (GitHub, GitLab).
-- Milestone tracking and collaboration with remote teams.
+---
 
 ## **Software Development**
 
 - **TDD (Test-Driven Development)**:
 
   - Mastery of TDD methodology to ensure code quality and maintainability.
-  - Practical experience writing unit tests before developing new features.
+  - Practical experience in writing unit tests before feature development.
 
 - **Unit Testing**:
 
-  - Creation and automation of tests to validate the functionality of software features.
-  - Use of tools adapted to different languages (e.g., Jest, Pytest).
+  - Creation and automation of tests to verify the functionality of software features.
+  - Use of tools like Jest and Pytest.
 
 - **Clean Code**:
-  - Writing structured, readable, and maintainable code according to best practices.
+  - Writing structured, readable, and maintainable code following best practices.
+
+---
 
 ## **Continuous Integration and Deployment**
 
 - **CI/CD**:
 
-  - Implementation of CI/CD pipelines to automate testing and deployments.
-  - Experience with **GitHub Actions** to manage continuous integration workflows.
+  - Implementation of CI/CD pipelines to automate tests and deployments.
+  - Experience with **GitHub Actions** for managing continuous integration workflows.
 
 - **GitHub Actions**:
   - Configuration of workflows for automated test execution and quality checks.
-  - Workflow integration into multi-branch projects.
+  - Integration of workflows into multi-branch projects.
+
+---
 
 ## **Cloud Computing**
 
 - Development and deployment of applications in cloud environments.
 - Basic concepts of cloud services and their applications for hosting and scalability.
+
+---
 
 ## **Software Architecture**
 
@@ -68,57 +114,15 @@
   - Management of communication between services via REST APIs and/or gRPC.
 
 - **Monolithic**:
-  - Development of monolithic applications for projects requiring centralized codebases.
-
-## **Current Work: Key Contributions**
-
-### **Wallet Provider**
-
-- Design and development of **Wallet Provider**, a backend system allowing companies and organizations to create their own document issuers for professional wallets.
-- Management of the generation, signing, and verification of secure **credentials**.
-- Active participation in the implementation and maintenance of CI/CD pipelines for this project.
-
-### **NFT/Coins Pages in Altme App**
-
-- Development of features related to NFTs and cryptocurrencies, integrated into the Altme app.
-- Use of the **Coingecko API** to retrieve and display dynamic data about cryptocurrencies and NFTs.
-- Optimization of the user experience for these pages on mobile (iOS/Android).
-
-### **iOS/Android Testing**
-
-- Validation of new features and detection of anomalies through extensive testing on mobile applications.
-- Collection and management of user feedback to ensure a smooth and optimized experience.
-
-### **Documentation with Docusaurus**
-
-- Writing and updating technical documentation for the Wallet Provider project and other related solutions.
-- Migration of an old documentation system created with **GitBook** to a modern and efficient version using **Docusaurus**.
-
-## **Other Skills**
-
-- **Hardware Knowledge**:
-  - Familiarity with hardware configurations and their management.
-- **Web/Web3 Development**:
-
-  - Development of Web3 applications and pages optimized for mobile.
-
-- **Client Relationship Management**:
-
-  - Collection and analysis of user feedback for product improvement.
-
-- **Graphic Design and Office Tools**:
-  - Proficiency in tools like **Photoshop**, **Figma**, and Office software (Word, Excel, PowerPoint).
+  - Development of monolithic applications for projects requiring a centralized codebase.
 
 ---
 
-### **Examples of Achievements**
+## **Examples of Achievements**
 
 1. Development of [Wallet Provider](https://github.com/TalaoDAO/wallet-provider) with secure credential management for professional wallets.
-2. Implementation of [Discover](https://github.com/TalaoDAO/DiscoverV2) NFT and cryptocurrency features in the Altme app.
+2. Implementation of [Discover](https://github.com/TalaoDAO/DiscoverV2) NFT and cryptocurrency features in the Altme application.
 3. Creation of [Technical Documentation](https://github.com/TalaoDAO/talao-documentation) using **Docusaurus**.
 4. Testing and optimization of mobile functionalities on iOS and Android.
-5. Implementation of a complete monolithic project, including CI/CD and TDD testing.
-6. Development of a sports e-commerce site [Breizhsport](https://github.com/BastienLopez/CESI_Superviser_dev_app) in microservices, hosted in the cloud.
-7. [Interactive website](https://github.com/BastienLopez/NOVOTEL_Roue_de_la_chance) for Novotel where users can provide feedback and try their luck with a reward wheel.
-
----
+5. Development of a sports e-commerce site [Breizhsport](https://github.com/BastienLopez/CESI_Superviser_dev_app) using microservices, hosted in the cloud.
+6. [NOVOTEL - Wheel of Fortune](https://github.com/BastienLopez/NOVOTEL_Roue_de_la_chance): Interactive website for collecting user feedback with a gamified wheel.
