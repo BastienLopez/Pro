@@ -19,6 +19,10 @@
 - Tests mobiles sur **iOS/Android** pour les applications **Altme** et **Talao**.
 - Mise en production d’un serveur d’identification sur la **blockchain Polygon** pour Altme.
 - Gestion des retours utilisateurs pour améliorer les fonctionnalités.
+- Wallet Provider - Plate-forme back-end pour la configuration, la gestion et
+l'intégration de portefeuilles numériques avec prise en charge d'informations
+d'identification vérifiables pour une utilisation personnelle et professionnelle.
+- Documentation - APP & Wallet Provider
 
 ### **Stage - Informapik** (Avril 2021 - Juin 2021)
 
@@ -35,7 +39,7 @@
 ### **Front-End** :
 
 - **Langages** : HTML, CSS, JavaScript.
-- **Frameworks et Outils** : CMS Webflow, TypeScript, React, GitBook, Figma, Photoshop.
+- **Frameworks et Outils** : CMS Webflow, TypeScript, React, GitBook, Figma, Photoshop, docusaurus.
 
 ### **Back-End** :
 
