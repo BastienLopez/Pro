@@ -19,6 +19,10 @@
 - Mobile testing on **iOS/Android** for **Altme** and **Talao** applications.
 - Deployment of an identification server on the **Polygon blockchain** for Altme.
 - Management of user feedback to enhance features.
+- Wallet Provider - Back-end platform for setting up, managing and
+integrating digital wallets with support for verifiable
+credentials for personal and business use.
+- Documentation - APP & Wallet Provider
 
 ### **Internship - Informapik** (April 2021 - June 2021)
 
@@ -35,7 +39,7 @@
 ### **Front-End**:
 
 - **Languages**: HTML, CSS, JavaScript.
-- **Frameworks and Tools**: CMS Webflow, TypeScript, React, GitBook, Figma, Photoshop.
+- **Frameworks and Tools**: CMS Webflow, TypeScript, React, GitBook, Figma, Photoshop, Docusaurus.
 
 ### **Back-End**:
 
